@@ -1,0 +1,6 @@
+[submodule "FYP_RaspberryPi"]
+	path = FYP_RaspberryPi
+	url = https://github.com/ThaySilva/FYP_RaspberryPi.git
+[submodule "FYP_iOSApp"]
+	path = FYP_iOSApp
+	url = https://github.com/ThaySilva/FYP_iOSApp.git
