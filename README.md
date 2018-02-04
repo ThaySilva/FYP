@@ -1,6 +1,6 @@
 # Code for my Finaly Year Project
 
-My FYP is title 'The Development of an Automated Rover with Image Recognition'.
+My FYP is titled 'The Development of an Automated Rover with Image Recognition'.
 
 Raspberry Pi Code
 -----------------
