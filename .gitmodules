@@ -4,3 +4,6 @@
 [submodule "Statistics_and_Metrics_Collector"]
 	path = Statistics_and_Metrics_Collector
 	url = https://github.com/ThaySilva/Statistics_and_Metrics_Collector.git
+[submodule "RoverHQ"]
+	path = RoverHQ
+	url = https://github.com/ThaySilva/RoverHQ.git
