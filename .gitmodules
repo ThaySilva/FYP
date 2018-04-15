@@ -4,3 +4,6 @@
 [submodule "Statistics_and_Metrics_Collector"]
 	path = Statistics_and_Metrics_Collector
 	url = https://github.com/ThaySilva/Statistics_and_Metrics_Collector
+[submodule "Vehicle_Platform"]
+	path = Vehicle_Platform
+	url = https://github.com/ThaySilva/Vehicle_Platform.git
