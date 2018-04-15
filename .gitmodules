@@ -1,6 +1,3 @@
-[submodule "FYP_RaspberryPi"]
-	path = FYP_RaspberryPi
-	url = https://github.com/ThaySilva/FYP_RaspberryPi.git
 [submodule "RoverHQ"]
 	path = RoverHQ
 	url = https://github.com/ThaySilva/RoverHQ.git
